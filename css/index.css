@@ -1,0 +1,41 @@
+.view-1 {
+  height: 100vh;
+  background-image: url("../img/bg.jpg");
+  background-position: center;
+  background-size: cover;
+}
+header {
+  height: 70px;
+}
+.logo {
+  font-size: 30px;
+  color: #32d3ed;
+  letter-spacing: 5px;
+}
+header .nav-link {
+  color: #fff;
+}
+header .nav-link:hover {
+  color: #32d3ed;
+}
+.text-box-1 {
+  height: calc(100vh - 70px);
+}
+.content {
+  height: 300px;
+  color: #fff;
+}
+.content h1 {
+  font-size: 80px;
+}
+.content p {
+  font-size: 30px;
+}
+.s-box {
+  height: 40px;
+  width: 40px;
+  border-radius: 5px;
+  background-color: #32d3ed;
+  margin-left: 8px;
+  color: #fff;
+}
